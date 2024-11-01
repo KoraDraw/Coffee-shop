@@ -21,6 +21,10 @@
     padding: 1rem;
     position: relative;}
 
+    .map{
+        object-fit: contain;
+    }
+
 
 .img-tag{
     position: absolute;
