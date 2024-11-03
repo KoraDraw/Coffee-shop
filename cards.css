@@ -1,0 +1,30 @@
+.cards{
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+    background-color: #c2f7f2;
+    font-family: "Alegreya sans", sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    width: 340px;
+    height: 458px;
+    border-radius: 40px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.42);
+}
+.card_button{
+    background-color: #2D635E;
+}
+.cards_item{
+    display: flex;
+    gap: 2rem;
+}
+.arrow{
+    display: flex;
+    align-items: center;
+}
