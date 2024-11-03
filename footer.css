@@ -18,7 +18,7 @@
 }
 
 .footer_imageWrapper1{
-    padding: 1rem;
+    padding: 1rem ;
     position: relative;}
 
     .map{
@@ -83,10 +83,21 @@ cursor: pointer;
 }
 
 .copyright{
-    position: absolute;
-    left: 50%;
+    display: flex;
+    justify-content: center;
     font-family: "Alegreya sans", sans-serif;
     font-size: 19px;
     font-weight: 300;
     color: #444A4A;
 }
+
+@media screen and (max-width: 440px) {
+    .footer-container{
+        flex-direction: column;
+    }
+    
+    .mapContainer{
+        max-width: 400px;
+    }
+    
+    };
