@@ -111,6 +111,11 @@ color: #444A4A;
         max-width: 400px;
     }
 
+    .map {
+        height: 50vh;
+        object-fit: cover;
+    }
+
     .img-tag{
         display: none;
     }
