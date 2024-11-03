@@ -73,8 +73,9 @@
 
 
 .footer_button{
-/* display: none; */
+display: none;
 padding: 1.5rem;
+width: 45%;
 background-color: white;
 border-radius: 10px;
 border: none;
@@ -118,5 +119,12 @@ color: #444A4A;
         display: none;
     }
 
+    .footer_button{
+        display: block;
+    }
+
+    .footer_imageWrapper2{
+        display: none;
+    }
     
     };
