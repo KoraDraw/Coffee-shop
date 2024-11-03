@@ -12,11 +12,10 @@
     justify-content: center;
     align-items: top;
     gap: 20px;
+    padding: 20% 5%;
 }
 
-.footer-container{
-    padding: 5%;
-}
+
 
 .footer_imageWrapper1{
     position: relative;
@@ -125,6 +124,11 @@ color: #444A4A;
 
     .footer_imageWrapper2{
         display: none;
+    }
+
+    .footer_text-box{
+       align-items: center;
+       text-align: center;
     }
     
     };
