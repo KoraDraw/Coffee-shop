@@ -24,7 +24,7 @@ h1{
 display: flex;
 padding: 20% 5% 10%;
 flex-direction: column;
-
+margin-bottom: 180px;
 
 
 }
@@ -41,21 +41,45 @@ button{
     line-height: 25px;
 }
 
-.vector{
+.arrow{
     display: flex;
+    
+}
+
+.arrow-wrapper {
+    width: 100px; 
+    height: 100px; 
     background-color: #E3EBE7;
-    background-size: 50px 50px;
-}
-
-.backgroundCoffee{
     display: flex;
-    background-color: #b6d4c5;
-    width: 200px;
-    height: 100px;
+    align-items: center;
+    justify-content: center;
+  }
 
-}
+
 
 .first-img{
     display: flex;
-    
+    margin-left: 550px;
+    margin-top: 300px;
+    width: 344px;
+    height: 373px;
+}
+.followus{
+    display: flex;
+    align-items:center;
+    flex-direction: column-reverse;
+    margin-bottom: 180px;
+    margin-left: 30px;
+
+}
+.social-icons{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+h3{
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: lighter;
+    transform: rotate(-90deg);
+    margin-top: 33px;
 }
