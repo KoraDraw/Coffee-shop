@@ -9,5 +9,53 @@
 
 h1{
     font-family: "Josefin Sans", sans-serif;
+    margin-top: 23px;
+    margin-bottom: 23px;
+    font-weight: light;
+}
+
+.First-page-container{
+    display: flex;
+    
+    
+}
+
+.Fpage{
+display: flex;
+padding: 20% 5% 10%;
+flex-direction: column;
+
+
+
+}
+
+button{
+    background-color: #2D635E;
+    border: none;
+    border-radius: 5px;
+    height: 54px;
+    width: 235px;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.vector{
+    display: flex;
+    background-color: #E3EBE7;
+    background-size: 50px 50px;
+}
+
+.backgroundCoffee{
+    display: flex;
+    background-color: #b6d4c5;
+    width: 200px;
+    height: 100px;
+
+}
+
+.first-img{
+    display: flex;
     
 }
