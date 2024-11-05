@@ -36,6 +36,12 @@
     font-weight: 400;
     line-height: 25px;
 }
+.card_button:hover{
+    opacity: 70%;
+    }
+.card_button:active{
+        transform: scale(1.1);
+    }
 
 .cards_item{
     display: flex;
