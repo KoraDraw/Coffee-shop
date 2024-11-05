@@ -3,33 +3,36 @@
     padding: 0;
 }
 
-.Ftext{
-    font-family: "Cedarville Cursive", cursive;
-}
-
-h1{
-    font-family: "Josefin Sans", sans-serif;
-    margin-top: 23px;
-    margin-bottom: 23px;
-    font-weight: light;
-}
-
 .First-page-container{
     display: flex;
-    
+    padding: 20% 5% 15%;
+    justify-content: space-between;
+}
+
+.box1{
+    display: flex;
+    flex-direction: column;
+}
+.box1 h4{
+    font-family: 'Cedarville Cursive', sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 53.1px;
+    color:#444A4A;
     
 }
 
-.Fpage{
-display: flex;
-padding: 20% 5% 10%;
-flex-direction: column;
-margin-bottom: 180px;
-
-
+.box1 h1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 63px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    line-height: 63px;
+    margin-top: 25px;
+    margin-bottom: 25px; 
 }
 
-button{
+.box1 button{
     background-color: #2D635E;
     border: none;
     border-radius: 5px;
@@ -39,47 +42,39 @@ button{
     font-size: 20px;
     font-weight: 400;
     line-height: 25px;
+}  
+
+.box2{
+    display: flex;
 }
 
+
 .arrow{
-    display: flex;
+    background-color:#E3EBE7;
+    width: 159px;
+    height: 157px;
+    justify-content: center;
+    opacity: 40%;
+    align-self: self-end;
+   
+}
+.arrow img{
+    width: 25px;
+    height: 6px;
     
 }
 
-.arrow-wrapper {
-    width: 100px; 
-    height: 100px; 
+
+.img1{
+    
     background-color: #E3EBE7;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-
-
-.first-img{
-    display: flex;
-    margin-left: 550px;
-    margin-top: 300px;
-    width: 344px;
-    height: 373px;
-}
-.followus{
-    display: flex;
-    align-items:center;
-    flex-direction: column-reverse;
-    margin-bottom: 180px;
-    margin-left: 30px;
-
-}
-.social-icons{
-    display: flex;
-    flex-direction: column-reverse;
+    width: 410px;
+    height: 466px;
 }
 
-h3{
-    font-family: "Josefin Sans", sans-serif;
-    font-weight: lighter;
-    transform: rotate(-90deg);
-    margin-top: 33px;
+
+.img1 img{
+margin-top: 33px;
+margin-left: 36px;
+
 }
