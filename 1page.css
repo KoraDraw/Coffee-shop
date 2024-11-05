@@ -56,12 +56,10 @@
     justify-content: center;
     opacity: 40%;
     align-self: self-end;
-   
 }
 .arrow img{
     width: 25px;
     height: 6px;
-    
 }
 
 
@@ -76,5 +74,8 @@
 .img1 img{
 margin-top: 33px;
 margin-left: 36px;
+}
 
+.box3{
+    
 }
