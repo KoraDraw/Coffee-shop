@@ -47,7 +47,7 @@
     display: flex;
     gap: 2rem;
 }
-.arrow{
+.card_arrow{
     display: flex;
     align-items: center;
 }
