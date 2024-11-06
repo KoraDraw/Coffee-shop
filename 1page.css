@@ -58,20 +58,22 @@ opacity: 70%;
     margin-left: 200px;
 }
 
-
 .arrow{
+    display: flex;
     background-color:#E3EBE7;
     width: 159px;
     height: 157px;
     justify-content: center;
+    align-items: center;
     opacity: 40%;
-    align-self: self-end;
+    align-self: self-end; 
 }
+
 .arrow img{
     width: 25px;
     height: 6px;
+    
 }
-
 
 .img1{
     
