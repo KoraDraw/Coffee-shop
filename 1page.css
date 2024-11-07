@@ -58,7 +58,7 @@ opacity: 70%;
     margin-left: 200px;
 }
 
-.arrow{
+.arrow1{
     display: flex;
     background-color:#E3EBE7;
     width: 159px;
@@ -69,7 +69,7 @@ opacity: 70%;
     align-self: self-end; 
 }
 
-.arrow img{
+.arrow1 img{
     width: 25px;
     height: 6px;
     
