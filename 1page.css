@@ -78,7 +78,6 @@ opacity: 70%;
 .img1{
     
     background-color: #E3EBE7;
-<<<<<<< HEAD
     display: flex;
     align-items: center;
     justify-content: center;
@@ -104,10 +103,8 @@ opacity: 70%;
 .social-icons{
     display: flex;
     flex-direction: column-reverse;
-=======
     width: 400px;
     height: 470px;
->>>>>>> 96335acc9b1ae8be0269bf83c12988f37fd55e1d
 }
 
 
