@@ -262,7 +262,7 @@ nav > a {
  #menu li
  {
    padding: 10px 0;
-   font-size: 22px;
+   font-size: 36px;
  }
  
  #menu li label
@@ -286,6 +286,10 @@ nav > a {
     .header__navigation{
         display: none;
     }
+    .header__top-line{
+        justify-content:center;
+    }
+
     .header_logo {
         padding-left: 0;
     }
