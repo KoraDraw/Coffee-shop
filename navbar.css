@@ -4,6 +4,7 @@
 .icones-burger{
     display: flex;
     flex-direction: row;
+    gap: 6vw;
 }
 
 .header__top-line {
@@ -33,7 +34,7 @@ a {
 .header_logo{
     display: flex;
     /*justify-content: left; */
-    padding-left: 100px;
+    padding-left: 5%;
 }
 
 
@@ -50,9 +51,10 @@ a {
     display: flex;
     justify-content: right;
     align-content: center;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     align-items: center;
-    gap: 5em; 
+    gap: 5vw; 
+    flex-shrink: 0;
 }
 
 .Ftext, .header__navigation{
@@ -81,7 +83,7 @@ nav > a {
     line-height: 16px;
     font-family: "Josefin Sans";
     text-align: justify;
-    
+    flex-shrink: 0;
 }
 
 .button{
@@ -95,7 +97,7 @@ nav > a {
     font-weight: 400;
     line-height: 16px;
     font-family: "Josefin Sans";
-    margin-right: 150px;
+    margin-right: 5%;
     cursor: pointer;
 }
 
@@ -278,6 +280,21 @@ nav > a {
    transform: none;
  }
 
+ @media screen and (max-width: 1024px){
+    .header__navigation{
+        align-self: flex-end;
+    }
+ }
+
+ @media screen and (max-width: 768px){
+    .header__navigation{
+        gap: 1.8vw;
+    }
+    nav > a {
+        font-size: 14px;
+        line-height: 16px;
+    }
+ }
 
  @media screen and (max-width: 440px){
     .burgerMenu_container{
