@@ -1,6 +1,9 @@
 .burgerMenu_container{
     display: none;
-
+}
+.icones-burger{
+    display: flex;
+    flex-direction: row;
 }
 
 .header__top-line {
@@ -31,8 +34,8 @@ a {
     display: flex;
     /*justify-content: left; */
     padding-left: 100px;
-
 }
+
 
 .logo_svg, .Ftext {
     /* float: left; */
@@ -231,13 +234,18 @@ nav > a {
   */
  #menu
  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5vh;
+    
    position: absolute;
    max-width: 400px;
    width: 100vw;
    max-height: 100vh;
    margin: -100px 0 0 -50px;
    padding: 50px;
-   padding-top: 125px;
+   padding-top: 5%px;
    box-sizing: border-box;
    overflow-y: auto;
    background: white;
@@ -281,9 +289,10 @@ nav > a {
     .header_logo {
         padding-left: 0;
     }
-
+    .header_logo{
+       font-size: 34px;
  }
-    
+}
 
 /*
 ul.nav {
