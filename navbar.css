@@ -1,17 +1,19 @@
 
 .header__top-line {
+    box-sizing: content-box;
     list-style-type: none;
     text-align: justify;
     letter-spacing: 3px;
     height: 70px;
     background-color: rgb(255, 255, 255);
-    padding: 36px 1%;
+    padding: 36px 2.2%;
     /* position: static;  */
     top: 0;
     width: 100%;  
     display: flex;
     justify-content: space-between;
-    align-content: center;
+    align-items: center;
+   
 }
 
 a {
@@ -36,7 +38,9 @@ a {
     display: flex;
     justify-content: right;
     align-content: center;
-
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 5em; 
 }
 
 .Ftext, .header__navigation{
