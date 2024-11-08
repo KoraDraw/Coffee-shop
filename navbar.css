@@ -89,8 +89,16 @@ nav > a {
     line-height: 16px;
     font-family: "Josefin Sans";
     margin-right: 150px;
+    cursor: pointer;
 }
 
+.button:hover{
+    opacity: 70%;
+    }
+
+.button:active{
+        transform: scale(1.1);
+    }
 
 
 /*
