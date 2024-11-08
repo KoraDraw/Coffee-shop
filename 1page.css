@@ -138,6 +138,20 @@ height: 373px;
     justify-content: center;
     text-align: center;
 }
+.box1 button{
+    align-self: center;
+    width: 189px;
+    height: 53px;
+}
+.box1 h4{
+    font-size: 19px;
+    line-height: 36.03px;
+}
+.box1 h1{
+    font-size: 54px;
+    line-height: 54px;
+    white-space: nowrap;
+}
 .box2{
     display: none;
 }
