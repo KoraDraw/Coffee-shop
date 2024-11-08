@@ -71,13 +71,14 @@ nav > a {
 .button{
     background-color: #2D635E;
     border: none;
-    border-radius: 5px;
-    height: 54px;
-    width: 235px;
+    border-radius: 7px;
+    height: 43px;
+    width: 135px;
     color: white;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 400;
-    line-height: 25px;
+    line-height: 16px;
+    font-family: "Josefin Sans";
 }
 
 
