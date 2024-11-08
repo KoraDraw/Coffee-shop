@@ -5,10 +5,10 @@
     letter-spacing: 3px;
     height: 70px;
     background-color: rgb(255, 255, 255);
-    padding: 36px 1% 36px;
+    padding: 36px 1%;
     /* position: static;  */
     top: 0;
-    width: 100vw;  
+    width: 100%;  
     display: flex;
     justify-content: space-between;
     align-content: center;
