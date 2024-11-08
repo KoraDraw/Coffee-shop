@@ -19,6 +19,8 @@ a {
 .logo_svg, .Ftext {
     float: left;
     font-size: 36px;
+    font-family: 'Cedarville Cursive', sans-serif;
+    font-weight: 300;
 }
 
 .header__navigation {
