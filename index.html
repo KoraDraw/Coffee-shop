@@ -49,15 +49,8 @@
             <span></span>
             <span></span>
             
-            <!--
-            Too bad the menu has to be inside of the button
-            but hey, it's pure CSS magic.
-            -->
             <ul id="menu">
-              <!-- 
-              We can use a label here to close upon click (when doing same page navigation), this
-              does require a slight bit of JS.
-              -->
+              
               <li>
                 <a href="#">
                   <label for="menuCheckbox" onclick="this.parentNode.click();">Home</label>
@@ -65,17 +58,23 @@
               </li>
               <li>
                 <a href="#about">
-                  <label for="menuCheckbox" onclick="this.parentNode.click();">About</label>
+                  <label for="menuCheckbox" onclick="this.parentNode.click();">About us</label>
                 </a>
               </li>
-              
-              <!-- These just close the menu -->
-              <li><label for="menuCheckbox"><a>Info</a></label></li>
-              <li><label for="menuCheckbox"><a>Contact</a></label></li>
-              
-              <!-- Or just use regular URLs -->
               <li>
-                <a href="https://erikterwan.com/" target="_blank">Show me more</a>
+                <a href="#about">
+                  <label for="menuCheckbox" onclick="this.parentNode.click();">Promotion</label>
+                </a>
+              </li>
+              <li>
+                <a href="#about">
+                  <label for="menuCheckbox" onclick="this.parentNode.click();">Shop</label>
+                </a>
+              </li>
+              <li>
+                <a href="#about">
+                  <label for="menuCheckbox" onclick="this.parentNode.click();">Contacts</label>
+                </a>
               </li>
             </ul>
           </div>
