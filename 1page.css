@@ -133,25 +133,32 @@ height: 373px;
 
 @media (max-width: 440px){
  
+.First-page-container {
+        padding-left: 0;
+    }
 .box1{
     display: flex;
     justify-content: center;
-    text-align: center;
-    
+    text-align: center; 
+    margin-left: 70px;
 }
+
 .box1 button{
     align-self: center;
     width: 189px;
     height: 53px;
+    
 }
 .box1 h4{
     font-size: 19px;
     line-height: 36.03px;
+    align-self: center;
 }
 .box1 h1{
     font-size: 54px;
     line-height: 54px;
     white-space: nowrap;
+    align-self: center;
 }
 .box2{
     display: none;
