@@ -1,6 +1,7 @@
 
 .header__top-line {
-    box-sizing: content-box;
+    /*box-sizing: content-box;*/
+    box-sizing: border-box;
     list-style-type: none;
     text-align: justify;
     letter-spacing: 3px;
@@ -8,7 +9,7 @@
     background-color: rgb(255, 255, 255);
     /*padding: 36px 2.2%;*/
     /* position: static;  */
-    top: 0;
+    /*top: 0;*/
     width: 100%;  
     display: flex;
     justify-content: space-between;
