@@ -128,7 +128,7 @@ nav > a {
  {
    display: block;
    /* You can also use relative/absolute here if you want to stay on the top */
-   position: fixed;
+   position: absolute;
    top: 24px;
    left: 24px;
    
@@ -230,6 +230,7 @@ nav > a {
    transform: rotate(-45deg) translate(0, -1px);
  }
  
+
  /*
   * Make this absolute positioned
   * at the top left of the screen
