@@ -23,7 +23,9 @@ a {
 
 .header_logo{
     display: flex;
-    justify-content: left;
+    /*justify-content: left; */
+    padding-left: 100px;
+
 }
 
 .logo_svg, .Ftext {
