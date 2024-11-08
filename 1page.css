@@ -130,3 +130,17 @@ height: 373px;
     width: 32px;
     height: 32px;
 }
+
+@media (max-width: 440px){
+    .box2{
+        display: none;
+    }
+    .box3{
+        display: none;
+    }
+.box1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+}
