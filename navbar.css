@@ -5,10 +5,11 @@
     letter-spacing: 3px;
     height: 70px;
     background-color: rgb(255, 255, 255);
-    padding: 36px 120px 36px 120px ;
+    padding: 36px 0.5% 36px;
     position: static; 
     top: 0;
     width: 100%;  
+    box-sizing: border-box;
 }
 
 a {
