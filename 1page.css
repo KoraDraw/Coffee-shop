@@ -86,6 +86,7 @@ opacity: 70%;
     
     background-color: #E3EBE7;
     display: flex;
+    
     width: 410px;
     height: 466px;
     /*align-items: center;
@@ -94,12 +95,16 @@ opacity: 70%;
 }
 
 .img1 img{
-margin-top: 140px;
+margin-top: 100px;
 margin-left: 30px;
-width: 344px;
-height: 373px;
+/*width: 344px;
+height: 373px;*/
 width: 100%;
-contain:;
+height: 100%;
+object-fit: scale-down;
+
+
+
 }
 
 .box3{
