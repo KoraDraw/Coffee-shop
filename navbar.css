@@ -16,30 +16,30 @@ a {
     color: inherit;
 }
 
-header svg, header h2 {
+.logo_svg, .Ftext {
     float: left;
     font-size: 36px;
 }
 
-header nav {
+.header__navigation {
     float: right;
     font-family: "Josefin Sans";
 
 }
 
-header h2, header nav {
+.Ftext, .header__navigation{
     display: inline-block;
     height: 100%;
 }
 
-header h2, header svg::before {
+.Ftext, .logo_svg::before {
     content: '';
     display: inline-block;
     vertical-align: middle;  
     height: 100%;
 }
 
-header::after {
+.header__top-line::after {
     content: '';
     display: inline-block;
     width: 100%;
