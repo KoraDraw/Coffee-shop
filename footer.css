@@ -101,6 +101,7 @@ color: #444A4A;
     letter-spacing: 0.01em;
     font-weight: 300;
     color: #444A4A;
+    margin-bottom: 2vh;
 }
 
 @media screen and (max-width: 768px) {
