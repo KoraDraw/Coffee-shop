@@ -287,7 +287,7 @@ nav > a {
     }
  }
 
- @media screen and (max-width: 768px){
+ @media screen and (max-width: 950px){
     .header__navigation{
         gap: 1.8vw;
     }
@@ -297,7 +297,7 @@ nav > a {
     }
  }
 
- @media screen and (max-width: 730px){
+ @media screen and (max-width: 780px){
     .burgerMenu_container{
         display: block;
     }
