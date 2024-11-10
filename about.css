@@ -1,4 +1,7 @@
-
+*{
+    margin: 0;
+    padding: 0;
+}
 
 .Second-page-container{
     display: flex;
@@ -16,17 +19,14 @@
     
     background-color: #E3EBE7;
     display: flex;
-    /*width: 410px;
-    height: 466px;*/
-    /*align-items: center;
-    justify-content: center;*/
-    /*margin-right: 120px;*/
+   
 }
 
 .img-1 img{
     width: 100%;
     height: 100%;
     object-fit: scale-down;
+    
 }
 
 .about-us h3{
@@ -42,10 +42,10 @@
 .box-2{
     display: flex;
     flex-direction: column;
-    /*margin-left: 200px;
-    margin-top: 40px;*/
-    justify-content: flex-end;
-   
+    align-items: flex-start;
+    margin-left: 20px;
+
+ 
 }
 
 .box-3{
