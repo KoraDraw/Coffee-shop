@@ -2,15 +2,13 @@
 
 .Second-page-container{
     display: flex;
-    /*padding: 20% 5% 15%; */
-    justify-content: space-between;
     padding-left: 5vw;
     
 }
 .box-1{
     display: flex;
-    flex-direction: column;
-    margin-top: 140px;
+    margin-top: 150px;
+    
     
 }
 
@@ -18,7 +16,6 @@
     
     background-color: #E3EBE7;
     display: flex;
-    
     width: 410px;
     height: 466px;
     /*align-items: center;
@@ -26,7 +23,7 @@
     /*margin-right: 120px;*/
 }
 
-.about us h3{
+.about-us h3{
     color:#444A4A;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 25px;
