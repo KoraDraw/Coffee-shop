@@ -18,11 +18,11 @@
 
 Мы использовали следующие технологии:
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-- ![Flexbox](https://img.shields.io/badge/Flexbox-FF69B4?style=flat&logo=css3&logoColor=white) 
-- ![Grid](https://img.shields.io/badge/Grid-FF69B4?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![Flexbox](https://img.shields.io/badge/Flexbox-FF69B4?style=flat&logo=css3&logoColor=white) 
+![Grid](https://img.shields.io/badge/Grid-FF69B4?style=flat&logo=css3&logoColor=white)
 
 ## Посетите наш сайт!
 [Coffee Shop Samwayle](https://koradraw.github.io/Coffee-shop/)
