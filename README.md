@@ -22,3 +22,8 @@
 - ![Flexbox](https://img.shields.io/badge/Flexbox-FF69B4?style=flat&logo=css3&logoColor=white) 
 - ![Grid](https://img.shields.io/badge/Grid-FF69B4?style=flat&logo=css3&logoColor=white)
 
+## Команда
+
+[![Contributors](https://contrib.rocks/image?repo=Amy-Vi
+/Project94_First_group)](https://github.com/Amy-Vi
+/Project94_First_group/graphs/contributors)
