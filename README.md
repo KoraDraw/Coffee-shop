@@ -1,4 +1,6 @@
 # README для проекта Coffee Shop Samwayle
+![Природа](images/Final.png)
+
 
 ## Описание проекта
 
