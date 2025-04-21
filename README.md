@@ -25,7 +25,7 @@
 - ![Grid](https://img.shields.io/badge/Grid-FF69B4?style=flat&logo=css3&logoColor=white)
 
 ## Посетите наш сайт!
-(https://koradraw.github.io/Coffee-shop/)
+(![Coffee Shop Samwayle]https://koradraw.github.io/Coffee-shop/)
 
 ## Команда
 
