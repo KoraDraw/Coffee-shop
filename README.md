@@ -24,6 +24,4 @@
 
 ## Команда
 
-[![Contributors](https://contrib.rocks/image?repo=Amy-Vi
-/Project94_First_group)](https://github.com/Amy-Vi
-/Project94_First_group/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=Amy-Vi/Project94_First_group)](https://github.com/Amy-Vi/Project94_First_group/graphs/contributors)
